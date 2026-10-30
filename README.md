@@ -1,5 +1,9 @@
 # firefox-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/firefox-or-just-updated-remote-browser-r?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Firefox template](https://railway.com/deploy/firefox-or-just-updated-remote-browser-r?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A thin wrapper over [`jlesage/firefox`](https://github.com/jlesage/docker-firefox)
 that makes it deploy correctly on [Railway](https://railway.com):
 
